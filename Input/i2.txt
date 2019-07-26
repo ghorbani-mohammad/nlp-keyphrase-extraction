@@ -1,0 +1,38 @@
+﻿(Reuters) - Twitter Inc (TWTR.N) posted better-than-expected second-quarter revenue on Friday and an uptick in daily users who see advertisements on the site, driven by changes to show users more relevant content, sending its shares up nearly 5%.
+
+FILE PHOTO: People holding mobile phones are silhouetted against a backdrop projected with the Twitter logo in this illustration picture taken September 27, 2013. REUTERS/Kacper Pempel/Illustration/File Photo
+However, the company forecast third-quarter revenue below many Wall Street estimates and said revenue growth would lag the first two quarters, partly due to ending some older ad formats.
+
+Twitter’s revenue and number of users have been in focus since the social media platform started deleting millions of spam or fake accounts promoting hate speech or spreading political misinformation, contributing to declines in monthly users through 2018.
+
+Chief Executive Officer Jack Dorsey said the platform saw an 18% drop in reports of spammy or suspicious behavior.
+
+The company reported a rise in monthly active users in the first quarter, fueling speculation that Twitter was returning to growth, but has since stopped disclosing its MAU count.
+
+Instead, this quarter it reported monetizable daily active usage (mDAU), a metric it created to measure only users exposed on a daily basis to advertising on the site and exclude those who access Twitter via aggregating sites like TweetDeck.
+
+Its monetizable daily active usage (mDAU) hit 139 million, beating analyst expectations of 135 million, according to IBES data from Refinitiv.
+
+“The strong growth in monetizable daily active users shows that Twitter users are sticking with the platform, and that should resonate with advertisers,” eMarketer senior analyst Jasmine Enberg said.
+
+Dorsey said machine learning improvements to deliver more relevant content helped drive up this count.
+
+Twitter reported second-quarter profit of $1.1 billion, or $1.43 per share, compared with $100 million, or 13 cents per share, a year earlier. Profit was boosted by an income tax benefit of over $1 billion related to corporate restructuring.
+
+Twitter’s revenue rose 18% from a year earlier to $841 million, beating Wall Street expectations of $829 million, based on Refinitiv data.
+
+Total advertising revenue rose to $727 million, an increase of 21% year-on-year, as the company continued to improve its ad platform and formats. Total ad engagements increased 20% year-over-year.
+
+It forecast total revenue for the third quarter to be between $815 million and $875 million. Analysts on average were expecting about $869.3 million.
+
+Twitter has continued to bulk up its live and on-demand video content partnerships. On Thursday, NBCUniversal said they would team up to livestream parts of the 2022 Olympic Games, Twitter’s latest move in a series of deals aimed at boosting sports conversation on the platform.
+
+It also expanded its multimedia features, launching a Snapchat-style camera feature in the Twitter app and releasing its own long-awaited tool for clipping and publishing video.
+
+Last week, the company rolled out its redesigned site and in March launched “twttr,” a prototype app where certain users can test out new features as part of its efforts to make conversations easier to find and follow.
+
+ADVERTISEMENT
+
+Twitter also recently updated its policies on hateful conduct directed at religious groups and last month introduced a new policy to de-emphasize and label rule-breaking tweets from important sources like politicians, though this has not yet been used.
+
+Total operating expenses, including cost of revenue, rose by 21% to $766 million, partly due to plans to hire more employees. The company reiterated that operating expenses would grow about 20% in 2019.
